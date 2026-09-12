@@ -26,7 +26,7 @@ reload(game)    # our own module, reload with the plugin
 
 __version__ = '1.0.0'
 __author__ = supybot.Author(name='Youri Matthys', nick='miruoy',
-                            email='miruoy@users.noreply.github.com')
+                            email='yourimatthys+github@gmail.com')
 __contributors__ = {}
 __url__ = 'https://github.com/miruoy/limnoria-BlackJack'
 
