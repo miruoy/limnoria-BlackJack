@@ -1,0 +1,11 @@
+# Runtime state written by the plugin (per-server leaderboard).
+scores.json
+
+# Python bytecode cache.
+__pycache__/
+*.pyc
+
+# pip/build artefacts.
+*.egg-info/
+build/
+dist/
